@@ -22,7 +22,7 @@ Array.prototype.newMap = newMap
 /////////////////////////////////////////////////////////////////////////
 
 function newFilter(callBack, array) {
-    let arr = []
+    const arr = []
     for (let i = 0; i < array.length; i++) {
         const valorAtual = array[i]
         const resultado = callBack(valorAtual)
