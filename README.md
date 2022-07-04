@@ -1,6 +1,6 @@
 # Entrega: Reproduzindo Métodos de Array e String
 
-Para iniciar, faça o clone deste repositório.
+Para iniciar, faça o clone deste repositório
 
 Nesta entrega, você irá exercitar a criação e o uso das funções callback, e irá se familiarizar com o modo no qual os métodos incorporados do JavaScript funcionam nos bastidores.
 
@@ -13,7 +13,7 @@ nos testes:
 function nomeDaFuncao(array, callback) {
     // conteúdo da função
 }
-```
+``
 
 Não se preocupe caso tenha visto formas de criar com _prototype_ ;) Depois você poderá voltar e refazer. 
 
