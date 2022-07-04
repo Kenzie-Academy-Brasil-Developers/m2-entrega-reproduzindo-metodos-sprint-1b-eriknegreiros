@@ -13,7 +13,7 @@ nos testes:
 function nomeDaFuncao(array, callback) {
     // conteúdo da função
 }
-```
+``
 
 Não se preocupe caso tenha visto formas de criar com _prototype_ ;) Depois você poderá voltar e refazer. 
 
